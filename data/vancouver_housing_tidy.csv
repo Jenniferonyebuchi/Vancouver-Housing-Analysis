@@ -1,0 +1,676 @@
+year,geography,core_housing_need_status,tenure,visible_minority_status,household_count,avg_household_income,avg_monthly_shelter_cost,avg_stir_pct
+2001,Vancouver,Total,Total,All households,707155,66700,956,24.2
+2001,Vancouver,Total,Total,Visible minority total,186175,61750,998,26.8
+2001,Vancouver,Total,Total,Chinese,90490,61600,911,25.3
+2001,Vancouver,Total,Total,South Asian,37845,70300,1204,27.1
+2001,Vancouver,Total,Total,Black,6015,54600,936,27.8
+2001,Vancouver,Total,Total,Filipino,14505,62700,1068,25.2
+2001,Vancouver,Total,Total,Latin American,5205,47240,915,30.9
+2001,Vancouver,Total,Total,Southeast Asian,7105,49080,1015,33.9
+2001,Vancouver,Total,Total,Arab,1685,58450,1045,34.3
+2001,Vancouver,Total,Total,West Asian,5800,50560,1063,35.4
+2001,Vancouver,Total,Total,Korean,5815,50280,1041,33.5
+2001,Vancouver,Total,Total,Japanese,7925,64300,877,23
+2001,Vancouver,Total,Total,Visible minority not included elsewhere,1025,60300,1044,29.3
+2001,Vancouver,Total,Total,Multiple visible minorities,2760,61800,958,26
+2001,Vancouver,Total,Total,Not a visible minority,520980,68500,941,23.3
+2001,Vancouver,Total,Owner,All households,442185,79600,1039,20.7
+2001,Vancouver,Total,Owner,Visible minority total,123110,71800,1105,24.7
+2001,Vancouver,Total,Owner,Chinese,70120,67700,949,23.5
+2001,Vancouver,Total,Owner,South Asian,25585,82400,1422,26.9
+2001,Vancouver,Total,Owner,Black,2245,71800,1243,24.9
+2001,Vancouver,Total,Owner,Filipino,7400,77500,1344,24.9
+2001,Vancouver,Total,Owner,Latin American,1440,67100,1278,28.9
+2001,Vancouver,Total,Owner,Southeast Asian,3055,64200,1288,30.7
+2001,Vancouver,Total,Owner,Arab,665,91400,1390,28
+2001,Vancouver,Total,Owner,West Asian,2120,75100,1462,32.5
+2001,Vancouver,Total,Owner,Korean,2880,61700,1151,30
+2001,Vancouver,Total,Owner,Japanese,5405,71300,884,19.4
+2001,Vancouver,Total,Owner,Visible minority not included elsewhere,525,80800,1284,24.9
+2001,Vancouver,Total,Owner,Multiple visible minorities,1675,75300,1091,22.7
+2001,Vancouver,Total,Owner,Not a visible minority,319075,82600,1013,19.2
+2001,Vancouver,Total,Renter,All households,264970,45320,817,30
+2001,Vancouver,Total,Renter,Visible minority total,63065,42160,784,31
+2001,Vancouver,Total,Renter,Chinese,20375,40600,776,31.7
+2001,Vancouver,Total,Renter,South Asian,12255,44920,738,27.5
+2001,Vancouver,Total,Renter,Black,3765,44360,752,29.6
+2001,Vancouver,Total,Renter,Filipino,7110,47280,777,25.6
+2001,Vancouver,Total,Renter,Latin American,3760,39640,776,31.6
+2001,Vancouver,Total,Renter,Southeast Asian,4045,37640,804,36.3
+2001,Vancouver,Total,Renter,Arab,1020,36900,811,38.5
+2001,Vancouver,Total,Renter,West Asian,3680,36440,831,37.1
+2001,Vancouver,Total,Renter,Korean,2940,39080,933,36.9
+2001,Vancouver,Total,Renter,Japanese,2515,49400,863,30.9
+2001,Vancouver,Total,Renter,Visible minority not included elsewhere,505,39400,796,33.7
+2001,Vancouver,Total,Renter,Multiple visible minorities,1085,41000,746,31.4
+2001,Vancouver,Total,Renter,Not a visible minority,201900,46280,827,29.7
+2001,Vancouver,Household in core housing need7,Total,All households,122285,19840,765,49.4
+2001,Vancouver,In core housing need,Total,Visible minority total,43135,22380,857,49.1
+2001,Vancouver,In core housing need,Total,Chinese,20075,22060,854,49.1
+2001,Vancouver,In core housing need,Total,South Asian,7470,24820,940,48.5
+2001,Vancouver,In core housing need,Total,Black,1500,19640,677,47.4
+2001,Vancouver,In core housing need,Total,Filipino,2600,23980,792,44.1
+2001,Vancouver,In core housing need,Total,Latin American,1735,20520,734,47.8
+2001,Vancouver,In core housing need,Total,Southeast Asian,2720,21540,870,51.7
+2001,Vancouver,In core housing need,Total,Arab,760,20880,794,49.3
+2001,Vancouver,In core housing need,Total,West Asian,2310,21900,899,53.1
+2001,Vancouver,In core housing need,Total,Korean,2000,22720,962,53
+2001,Vancouver,In core housing need,Total,Japanese,1145,19400,751,50
+2001,Vancouver,In core housing need,Total,Visible minority not included elsewhere,250,21200,864,51.8
+2001,Vancouver,In core housing need,Total,Multiple visible minorities,570,20700,736,47.5
+2001,Vancouver,In core housing need,Total,Not a visible minority,79150,18440,715,49.5
+2001,Vancouver,Household in core housing need7,Owner,All households,39825,22200,902,49.9
+2001,Vancouver,In core housing need,Owner,Visible minority total,18635,24440,1020,51.9
+2001,Vancouver,In core housing need,Owner,Chinese,12190,23340,926,49.9
+2001,Vancouver,In core housing need,Owner,South Asian,3020,28760,1340,57.3
+2001,Vancouver,In core housing need,Owner,Black,230,22800,884,50.4
+2001,Vancouver,In core housing need,Owner,Filipino,570,26700,1118,52.6
+2001,Vancouver,In core housing need,Owner,Latin American,210,22400,1020,55.4
+2001,Vancouver,In core housing need,Owner,Southeast Asian,590,26300,1204,57.7
+2001,Vancouver,In core housing need,Owner,Arab,130,27200,1070,47.6
+2001,Vancouver,In core housing need,Owner,West Asian,415,25200,1244,59.3
+2001,Vancouver,In core housing need,Owner,Korean,640,23300,1092,57.3
+2001,Vancouver,In core housing need,Owner,Japanese,445,21000,812,48.9
+2001,Vancouver,In core housing need,Owner,Visible minority not included elsewhere,25,28000,1600,66
+2001,Vancouver,In core housing need,Owner,Multiple visible minorities,180,25200,920,45.4
+2001,Vancouver,In core housing need,Owner,Not a visible minority,21190,20240,798,48.1
+2001,Vancouver,Household in core housing need7,Renter,All households,82455,18700,698,49.1
+2001,Vancouver,In core housing need,Renter,Visible minority total,24505,20840,732,47
+2001,Vancouver,In core housing need,Renter,Chinese,7885,20080,740,47.8
+2001,Vancouver,In core housing need,Renter,South Asian,4450,22160,666,42.4
+2001,Vancouver,In core housing need,Renter,Black,1270,19080,640,46.8
+2001,Vancouver,In core housing need,Renter,Filipino,2040,23220,701,41.8
+2001,Vancouver,In core housing need,Renter,Latin American,1525,20260,696,46.7
+2001,Vancouver,In core housing need,Renter,Southeast Asian,2135,20220,778,50
+2001,Vancouver,In core housing need,Renter,Arab,625,19600,736,49.7
+2001,Vancouver,In core housing need,Renter,West Asian,1900,21180,824,51.7
+2001,Vancouver,In core housing need,Renter,Korean,1365,22480,900,51
+2001,Vancouver,In core housing need,Renter,Japanese,700,18360,711,50.6
+2001,Vancouver,In core housing need,Renter,Visible minority not included elsewhere,230,20400,792,50.4
+2001,Vancouver,In core housing need,Renter,Multiple visible minorities,390,18700,652,48.4
+2001,Vancouver,In core housing need,Renter,Not a visible minority,57955,17780,684,50
+2001,Vancouver,Not in core housing need,Total,All households,584870,76600,996,18.9
+2001,Vancouver,Not in core housing need,Total,Visible minority total,143040,73600,1040,20.1
+2001,Vancouver,Not in core housing need,Total,Chinese,70420,72900,928,18.5
+2001,Vancouver,Not in core housing need,Total,South Asian,30375,81400,1269,21.9
+2001,Vancouver,Not in core housing need,Total,Black,4515,66200,1022,21.4
+2001,Vancouver,Not in core housing need,Total,Filipino,11900,71100,1129,21.1
+2001,Vancouver,Not in core housing need,Total,Latin American,3470,60600,1006,22.4
+2001,Vancouver,Not in core housing need,Total,Southeast Asian,4385,66200,1105,22.7
+2001,Vancouver,Not in core housing need,Total,Arab,925,89200,1249,22
+2001,Vancouver,Not in core housing need,Total,West Asian,3490,69500,1172,23.7
+2001,Vancouver,Not in core housing need,Total,Korean,3820,64700,1083,23.3
+2001,Vancouver,Not in core housing need,Total,Japanese,6775,71900,899,18.4
+2001,Vancouver,Not in core housing need,Total,Visible minority not included elsewhere,780,72600,1101,22.1
+2001,Vancouver,Not in core housing need,Total,Multiple visible minorities,2185,72500,1017,20.4
+2001,Vancouver,Not in core housing need,Total,Not a visible minority,441835,77500,982,18.6
+2001,Vancouver,Not in core housing need,Owner,All households,402360,85300,1052,17.9
+2001,Vancouver,Not in core housing need,Owner,Visible minority total,104475,80200,1120,19.9
+2001,Vancouver,Not in core housing need,Owner,Chinese,57930,77000,954,17.9
+2001,Vancouver,Not in core housing need,Owner,South Asian,22565,89600,1432,22.9
+2001,Vancouver,Not in core housing need,Owner,Black,2015,77400,1284,21.9
+2001,Vancouver,Not in core housing need,Owner,Filipino,6830,81700,1363,22.6
+2001,Vancouver,Not in core housing need,Owner,Latin American,1230,74800,1322,24.4
+2001,Vancouver,Not in core housing need,Owner,Southeast Asian,2470,73300,1309,24.2
+2001,Vancouver,Not in core housing need,Owner,Arab,540,107200,1468,23.2
+2001,Vancouver,Not in core housing need,Owner,West Asian,1710,87100,1514,26.1
+2001,Vancouver,Not in core housing need,Owner,Korean,2240,72700,1167,22.3
+2001,Vancouver,Not in core housing need,Owner,Japanese,4960,75800,890,16.7
+2001,Vancouver,Not in core housing need,Owner,Visible minority not included elsewhere,495,82800,1270,23.1
+2001,Vancouver,Not in core housing need,Owner,Multiple visible minorities,1495,81400,1112,19.9
+2001,Vancouver,Not in core housing need,Owner,Not a visible minority,297885,87100,1028,17.2
+2001,Vancouver,Not in core housing need,Renter,All households,182510,57350,871,21.3
+2001,Vancouver,Not in core housing need,Renter,Visible minority total,38560,55700,817,20.6
+2001,Vancouver,Not in core housing need,Renter,Chinese,12490,53550,800,21.2
+2001,Vancouver,Not in core housing need,Renter,South Asian,7805,57900,780,18.8
+2001,Vancouver,Not in core housing need,Renter,Black,2500,57200,810,21
+2001,Vancouver,Not in core housing need,Renter,Filipino,5070,56950,808,19
+2001,Vancouver,Not in core housing need,Renter,Latin American,2240,52850,831,21.3
+2001,Vancouver,Not in core housing need,Renter,Southeast Asian,1915,57050,835,20.8
+2001,Vancouver,Not in core housing need,Renter,Arab,390,64400,936,20.3
+2001,Vancouver,Not in core housing need,Renter,West Asian,1785,52700,839,21.4
+2001,Vancouver,Not in core housing need,Renter,Korean,1575,53500,962,24.7
+2001,Vancouver,Not in core housing need,Renter,Japanese,1820,61400,923,23.1
+2001,Vancouver,Not in core housing need,Renter,Visible minority not included elsewhere,280,54400,800,20.4
+2001,Vancouver,Not in core housing need,Renter,Multiple visible minorities,690,53500,801,21.4
+2001,Vancouver,Not in core housing need,Renter,Not a visible minority,143950,57750,885,21.5
+2006,Vancouver,Total,Total,All households,757900,78100,1107,24.8
+2006,Vancouver,Total,Total,Visible minority total,234430,69800,1143,27.4
+2006,Vancouver,Total,Total,Chinese,108095,67400,1008,26.2
+2006,Vancouver,Total,Total,South Asian,49480,83400,1380,26.6
+2006,Vancouver,Total,Total,Black,6515,56100,1058,29.9
+2006,Vancouver,Total,Total,Filipino,20725,71400,1222,25.3
+2006,Vancouver,Total,Total,Latin American,6755,58650,1121,30.6
+2006,Vancouver,Total,Total,Southeast Asian,8600,56600,1193,32.8
+2006,Vancouver,Total,Total,Arab,2280,67500,1212,31.2
+2006,Vancouver,Total,Total,West Asian,8060,58950,1386,36.5
+2006,Vancouver,Total,Total,Korean,9570,55100,1205,36.9
+2006,Vancouver,Total,Total,Japanese,8355,74700,970,23.3
+2006,Vancouver,Total,Total,Visible minority not included elsewhere,990,61100,1084,29
+2006,Vancouver,Total,Total,Multiple visible minorities,5005,73400,1200,27
+2006,Vancouver,Total,Total,Not a visible minority,523470,81900,1090,23.6
+2006,Vancouver,Total,Owner,All households,503460,92500,1215,22.1
+2006,Vancouver,Total,Owner,Visible minority total,162220,79600,1271,26.2
+2006,Vancouver,Total,Owner,Chinese,83700,74200,1054,24.5
+2006,Vancouver,Total,Owner,South Asian,35950,93400,1598,27.3
+2006,Vancouver,Total,Owner,Black,2460,76800,1408,27
+2006,Vancouver,Total,Owner,Filipino,11295,88100,1548,25.6
+2006,Vancouver,Total,Owner,Latin American,2630,82000,1518,29.3
+2006,Vancouver,Total,Owner,Southeast Asian,5185,67400,1422,32.3
+2006,Vancouver,Total,Owner,Arab,990,89200,1556,29.6
+2006,Vancouver,Total,Owner,West Asian,4470,73300,1790,38.1
+2006,Vancouver,Total,Owner,Korean,6015,62250,1290,35
+2006,Vancouver,Total,Owner,Japanese,5765,84700,982,19.4
+2006,Vancouver,Total,Owner,Visible minority not included elsewhere,435,76400,1390,27.2
+2006,Vancouver,Total,Owner,Multiple visible minorities,3320,86000,1398,26.2
+2006,Vancouver,Total,Owner,Not a visible minority,341245,98600,1188,20.1
+2006,Vancouver,Total,Renter,All households,254440,49600,889,30.2
+2006,Vancouver,Total,Renter,Visible minority total,72215,47520,848,30.3
+2006,Vancouver,Total,Renter,Chinese,24395,43920,845,32.5
+2006,Vancouver,Total,Renter,South Asian,13525,56900,785,24.7
+2006,Vancouver,Total,Renter,Black,4055,43520,844,31.7
+2006,Vancouver,Total,Renter,Filipino,9425,51450,826,24.8
+2006,Vancouver,Total,Renter,Latin American,4125,43720,865,31.5
+2006,Vancouver,Total,Renter,Southeast Asian,3410,40240,835,33.5
+2006,Vancouver,Total,Renter,Arab,1290,50840,947,32.4
+2006,Vancouver,Total,Renter,West Asian,3595,41200,878,34.5
+2006,Vancouver,Total,Renter,Korean,3560,43080,1058,40
+2006,Vancouver,Total,Renter,Japanese,2590,52350,943,32
+2006,Vancouver,Total,Renter,Visible minority not included elsewhere,555,49000,840,30.4
+2006,Vancouver,Total,Renter,Multiple visible minorities,1685,48600,798,28.7
+2006,Vancouver,Total,Renter,Not a visible minority,182225,50440,904,30.2
+2006,Vancouver,Household in core housing need7,Total,All households,129145,22260,882,50.1
+2006,Vancouver,In core housing need,Total,Visible minority total,53125,24540,970,49.9
+2006,Vancouver,In core housing need,Total,Chinese,25960,23780,923,49
+2006,Vancouver,In core housing need,Total,South Asian,7835,27280,1082,49.2
+2006,Vancouver,In core housing need,Total,Black,1745,21640,831,50
+2006,Vancouver,In core housing need,Total,Filipino,3445,25880,901,44.8
+2006,Vancouver,In core housing need,Total,Latin American,1800,23280,860,47.8
+2006,Vancouver,In core housing need,Total,Southeast Asian,2680,25720,1112,53.9
+2006,Vancouver,In core housing need,Total,Arab,740,25480,988,49.5
+2006,Vancouver,In core housing need,Total,West Asian,2650,24360,1054,54
+2006,Vancouver,In core housing need,Total,Korean,3730,24860,1118,56.7
+2006,Vancouver,In core housing need,Total,Japanese,1360,21860,870,51
+2006,Vancouver,In core housing need,Total,Visible minority not included elsewhere,280,24400,960,51.2
+2006,Vancouver,In core housing need,Total,Multiple visible minorities,890,24080,974,52.4
+2006,Vancouver,In core housing need,Total,Not a visible minority,76020,20660,821,50.2
+2006,Vancouver,Household in core housing need7,Owner,All households,49780,24620,1051,52.4
+2006,Vancouver,In core housing need,Owner,Visible minority total,26690,26240,1135,53.2
+2006,Vancouver,In core housing need,Owner,Chinese,16055,24680,990,50
+2006,Vancouver,In core housing need,Owner,South Asian,3900,31080,1470,57.6
+2006,Vancouver,In core housing need,Owner,Black,245,24600,1160,57.6
+2006,Vancouver,In core housing need,Owner,Filipino,910,29000,1304,56
+2006,Vancouver,In core housing need,Owner,Latin American,310,27800,1280,56.2
+2006,Vancouver,In core housing need,Owner,Southeast Asian,1120,29600,1508,62
+2006,Vancouver,In core housing need,Owner,Arab,165,32000,1460,57.8
+2006,Vancouver,In core housing need,Owner,West Asian,1005,26850,1396,62.1
+2006,Vancouver,In core housing need,Owner,Korean,1975,25440,1183,57.6
+2006,Vancouver,In core housing need,Owner,Japanese,555,23900,980,51
+2006,Vancouver,In core housing need,Owner,Visible minority not included elsewhere,75,30000,1360,56
+2006,Vancouver,In core housing need,Owner,Multiple visible minorities,375,28400,1305,57.8
+2006,Vancouver,In core housing need,Owner,Not a visible minority,23090,22760,954,51.4
+2006,Vancouver,Household in core housing need7,Renter,All households,79365,20780,775,48.6
+2006,Vancouver,In core housing need,Renter,Visible minority total,26430,22820,802,46.6
+2006,Vancouver,In core housing need,Renter,Chinese,9905,22360,813,47.3
+2006,Vancouver,In core housing need,Renter,South Asian,3940,23560,693,40.8
+2006,Vancouver,In core housing need,Renter,Black,1500,21120,777,48.8
+2006,Vancouver,In core housing need,Renter,Filipino,2535,24780,756,40.8
+2006,Vancouver,In core housing need,Renter,Latin American,1490,22320,773,46
+2006,Vancouver,In core housing need,Renter,Southeast Asian,1560,22920,825,48
+2006,Vancouver,In core housing need,Renter,Arab,575,23600,852,47.1
+2006,Vancouver,In core housing need,Renter,West Asian,1645,22820,841,49
+2006,Vancouver,In core housing need,Renter,Korean,1755,24220,1045,55.7
+2006,Vancouver,In core housing need,Renter,Japanese,805,20480,794,50.9
+2006,Vancouver,In core housing need,Renter,Visible minority not included elsewhere,205,22400,800,49.6
+2006,Vancouver,In core housing need,Renter,Multiple visible minorities,510,20900,728,48.4
+2006,Vancouver,In core housing need,Renter,Not a visible minority,52935,19740,762,49.6
+2006,Vancouver,Not in core housing need,Total,All households,628755,89600,1153,19.6
+2006,Vancouver,Not in core housing need,Total,Visible minority total,181305,83000,1194,20.9
+2006,Vancouver,Not in core housing need,Total,Chinese,82140,81200,1035,19
+2006,Vancouver,Not in core housing need,Total,South Asian,41645,94000,1436,22.4
+2006,Vancouver,Not in core housing need,Total,Black,4765,68700,1141,22.5
+2006,Vancouver,Not in core housing need,Total,Filipino,17280,80500,1286,21.4
+2006,Vancouver,Not in core housing need,Total,Latin American,4955,71500,1216,24.4
+2006,Vancouver,Not in core housing need,Total,Southeast Asian,5925,70600,1229,23.2
+2006,Vancouver,Not in core housing need,Total,Arab,1540,87800,1320,22.3
+2006,Vancouver,Not in core housing need,Total,West Asian,5410,75900,1550,27.9
+2006,Vancouver,Not in core housing need,Total,Korean,5835,74500,1261,24.1
+2006,Vancouver,Not in core housing need,Total,Japanese,6990,84900,989,17.8
+2006,Vancouver,Not in core housing need,Total,Visible minority not included elsewhere,710,75600,1136,20.1
+2006,Vancouver,Not in core housing need,Total,Multiple visible minorities,4115,84100,1248,21.6
+2006,Vancouver,Not in core housing need,Total,Not a visible minority,447450,92200,1136,19
+2006,Vancouver,Not in core housing need,Owner,All households,453680,100000,1233,18.7
+2006,Vancouver,Not in core housing need,Owner,Visible minority total,135520,90200,1298,20.9
+2006,Vancouver,Not in core housing need,Owner,Chinese,67650,86000,1069,18.4
+2006,Vancouver,Not in core housing need,Owner,South Asian,32055,101000,1614,23.6
+2006,Vancouver,Not in core housing need,Owner,Black,2215,82600,1434,23.6
+2006,Vancouver,Not in core housing need,Owner,Filipino,10385,93300,1570,23
+2006,Vancouver,Not in core housing need,Owner,Latin American,2320,89200,1552,25.7
+2006,Vancouver,Not in core housing need,Owner,Southeast Asian,4065,77800,1398,24.1
+2006,Vancouver,Not in core housing need,Owner,Arab,820,100800,1576,23.9
+2006,Vancouver,Not in core housing need,Owner,West Asian,3460,86800,1904,31.2
+2006,Vancouver,Not in core housing need,Owner,Korean,4040,80200,1344,24
+2006,Vancouver,Not in core housing need,Owner,Japanese,5210,91200,982,16.1
+2006,Vancouver,Not in core housing need,Owner,Visible minority not included elsewhere,360,86000,1395,21.2
+2006,Vancouver,Not in core housing need,Owner,Multiple visible minorities,2940,93400,1410,22.1
+2006,Vancouver,Not in core housing need,Owner,Not a visible minority,318155,104100,1205,17.8
+2006,Vancouver,Not in core housing need,Renter,All households,175070,62700,941,21.8
+2006,Vancouver,Not in core housing need,Renter,Visible minority total,45780,61800,876,20.7
+2006,Vancouver,Not in core housing need,Renter,Chinese,14485,58650,867,21.9
+2006,Vancouver,Not in core housing need,Renter,South Asian,9590,70600,823,18
+2006,Vancouver,Not in core housing need,Renter,Black,2550,56700,884,21.5
+2006,Vancouver,Not in core housing need,Renter,Filipino,6890,61250,852,18.9
+2006,Vancouver,Not in core housing need,Renter,Latin American,2635,55850,917,23.2
+2006,Vancouver,Not in core housing need,Renter,Southeast Asian,1850,54800,844,21.1
+2006,Vancouver,Not in core housing need,Renter,Arab,715,72800,1024,20.5
+2006,Vancouver,Not in core housing need,Renter,West Asian,1950,56700,909,22.1
+2006,Vancouver,Not in core housing need,Renter,Korean,1800,61500,1071,24.6
+2006,Vancouver,Not in core housing need,Renter,Japanese,1780,66800,1012,23.2
+2006,Vancouver,Not in core housing need,Renter,Visible minority not included elsewhere,350,64800,864,18.9
+2006,Vancouver,Not in core housing need,Renter,Multiple visible minorities,1175,60700,830,20.1
+2006,Vancouver,Not in core housing need,Renter,Not a visible minority,129295,63000,963,22.1
+2011,Vancouver,Total,Total,All households,815405,90300,1274,24.7
+2011,Vancouver,Total,Total,Visible minority total,281150,83900,1316,26.7
+2011,Vancouver,Total,Total,Chinese,120470,80900,1202,26.2
+2011,Vancouver,Total,Total,South Asian,61020,97700,1468,24.8
+2011,Vancouver,Total,Total,Black,7415,71100,1263,28.6
+2011,Vancouver,Total,Total,Filipino,28920,87000,1396,24.2
+2011,Vancouver,Total,Total,Latin American,8865,70300,1320,29.7
+2011,Vancouver,Total,Total,Southeast Asian,11955,76300,1338,28.4
+2011,Vancouver,Total,Total,Arab,3220,75500,1294,30.2
+2011,Vancouver,Total,Total,West Asian,10915,78700,1616,35.7
+2011,Vancouver,Total,Total,Korean,11830,67900,1382,35.2
+2011,Vancouver,Total,Total,Japanese,9200,84200,1088,23.8
+2011,Vancouver,Total,Total,Visible minority not included elsewhere,1230,83600,1300,26.1
+2011,Vancouver,Total,Total,Multiple visible minorities,6105,86200,1370,25.6
+2011,Vancouver,Total,Total,Not a visible minority,534255,93600,1251,23.7
+2011,Vancouver,Total,Owner,All households,545005,105200,1384,22.1
+2011,Vancouver,Total,Owner,Visible minority total,194535,94700,1452,25.5
+2011,Vancouver,Total,Owner,Chinese,95490,87400,1251,24.9
+2011,Vancouver,Total,Owner,South Asian,43215,110200,1700,25.1
+2011,Vancouver,Total,Owner,Black,3170,94400,1618,24.9
+2011,Vancouver,Total,Owner,Filipino,16320,103300,1702,24.1
+2011,Vancouver,Total,Owner,Latin American,3625,92300,1722,27.6
+2011,Vancouver,Total,Owner,Southeast Asian,7135,88300,1566,28.4
+2011,Vancouver,Total,Owner,Arab,1300,106300,1602,26
+2011,Vancouver,Total,Owner,West Asian,5980,95100,2022,35.8
+2011,Vancouver,Total,Owner,Korean,7435,76600,1496,33.4
+2011,Vancouver,Total,Owner,Japanese,6095,99400,1094,19.4
+2011,Vancouver,Total,Owner,Visible minority not included elsewhere,665,102600,1552,24.3
+2011,Vancouver,Total,Owner,Multiple visible minorities,4110,99800,1522,24
+2011,Vancouver,Total,Owner,Not a visible minority,350465,111100,1346,20.2
+2011,Vancouver,Total,Renter,All households,270400,60150,1048,30.1
+2011,Vancouver,Total,Renter,Visible minority total,86615,59800,1003,29.2
+2011,Vancouver,Total,Renter,Chinese,24980,56250,1007,31.2
+2011,Vancouver,Total,Renter,South Asian,17805,67300,893,24.1
+2011,Vancouver,Total,Renter,Black,4250,53800,995,31.4
+2011,Vancouver,Total,Renter,Filipino,12600,65800,995,24.2
+2011,Vancouver,Total,Renter,Latin American,5240,55050,1039,31.1
+2011,Vancouver,Total,Renter,Southeast Asian,4820,58600,994,28.3
+2011,Vancouver,Total,Renter,Arab,1920,54550,1084,33.1
+2011,Vancouver,Total,Renter,West Asian,4935,58950,1118,35.6
+2011,Vancouver,Total,Renter,Korean,4400,53200,1185,38.2
+2011,Vancouver,Total,Renter,Japanese,3110,54350,1075,32.5
+2011,Vancouver,Total,Renter,Visible minority not included elsewhere,560,61200,1000,28.4
+2011,Vancouver,Total,Renter,Multiple visible minorities,1995,58350,1049,29.1
+2011,Vancouver,Total,Renter,Not a visible minority,183790,60300,1070,30.5
+2011,Vancouver,Household in core housing need7,Total,All households,144720,26240,1039,50.2
+2011,Vancouver,In core housing need,Total,Visible minority total,61645,28880,1128,49.8
+2011,Vancouver,In core housing need,Total,Chinese,27040,27520,1098,50.5
+2011,Vancouver,In core housing need,Total,South Asian,10475,31920,1201,47.9
+2011,Vancouver,In core housing need,Total,Black,2050,27760,967,45.5
+2011,Vancouver,In core housing need,Total,Filipino,4735,31680,1073,43.8
+2011,Vancouver,In core housing need,Total,Latin American,2395,27840,1071,49.4
+2011,Vancouver,In core housing need,Total,Southeast Asian,3165,29640,1124,48.2
+2011,Vancouver,In core housing need,Total,Arab,1065,29800,1130,49.1
+2011,Vancouver,In core housing need,Total,West Asian,3590,28480,1232,54.6
+2011,Vancouver,In core housing need,Total,Korean,4265,29160,1282,55.7
+2011,Vancouver,In core housing need,Total,Japanese,1490,23760,967,51.4
+2011,Vancouver,In core housing need,Total,Visible minority not included elsewhere,260,27600,970,47.4
+2011,Vancouver,In core housing need,Total,Multiple visible minorities,1120,30050,1152,48.2
+2011,Vancouver,In core housing need,Total,Not a visible minority,83075,24260,973,50.5
+2011,Vancouver,Household in core housing need7,Owner,All households,59025,28600,1208,52.1
+2011,Vancouver,In core housing need,Owner,Visible minority total,31300,30360,1296,53
+2011,Vancouver,In core housing need,Owner,Chinese,17835,28360,1172,51.6
+2011,Vancouver,In core housing need,Owner,South Asian,5180,35920,1552,53.5
+2011,Vancouver,In core housing need,Owner,Black,280,29200,1160,50
+2011,Vancouver,In core housing need,Owner,Filipino,1300,34120,1406,51.4
+2011,Vancouver,In core housing need,Owner,Latin American,465,36000,1620,56.2
+2011,Vancouver,In core housing need,Owner,Southeast Asian,1225,31300,1476,58.3
+2011,Vancouver,In core housing need,Owner,Arab,220,31400,1420,55.2
+2011,Vancouver,In core housing need,Owner,West Asian,1420,31960,1582,61.6
+2011,Vancouver,In core housing need,Owner,Korean,2175,29800,1356,56.6
+2011,Vancouver,In core housing need,Owner,Japanese,590,24400,980,49.5
+2011,Vancouver,In core housing need,Owner,Visible minority not included elsewhere,75,27000,1200,58
+2011,Vancouver,In core housing need,Owner,Multiple visible minorities,530,33400,1350,50.2
+2011,Vancouver,In core housing need,Owner,Not a visible minority,27730,26560,1110,51.1
+2011,Vancouver,Household in core housing need7,Renter,All households,85695,24600,921,48.9
+2011,Vancouver,In core housing need,Renter,Visible minority total,30350,27320,953,46.4
+2011,Vancouver,In core housing need,Renter,Chinese,9200,25880,954,48.3
+2011,Vancouver,In core housing need,Renter,South Asian,5290,28040,851,42.3
+2011,Vancouver,In core housing need,Renter,Black,1770,27560,937,44.8
+2011,Vancouver,In core housing need,Renter,Filipino,3435,30760,946,40.9
+2011,Vancouver,In core housing need,Renter,Latin American,1930,25840,937,47.8
+2011,Vancouver,In core housing need,Renter,Southeast Asian,1940,28560,900,41.8
+2011,Vancouver,In core housing need,Renter,Arab,845,29350,1056,47.6
+2011,Vancouver,In core housing need,Renter,West Asian,2170,26240,1002,50.1
+2011,Vancouver,In core housing need,Renter,Korean,2090,28520,1205,54.8
+2011,Vancouver,In core housing need,Renter,Japanese,905,23320,958,52.8
+2011,Vancouver,In core housing need,Renter,Visible minority not included elsewhere,180,28000,870,43
+2011,Vancouver,In core housing need,Renter,Multiple visible minorities,590,27100,968,46.3
+2011,Vancouver,In core housing need,Renter,Not a visible minority,55350,23100,904,50.2
+2011,Vancouver,Not in core housing need,Total,All households,670680,104100,1324,19.2
+2011,Vancouver,Not in core housing need,Total,Visible minority total,219500,99400,1368,20.2
+2011,Vancouver,Not in core housing need,Total,Chinese,93425,96400,1232,19.1
+2011,Vancouver,Not in core housing need,Total,South Asian,50545,111300,1524,20.1
+2011,Vancouver,Not in core housing need,Total,Black,5365,87700,1376,22.2
+2011,Vancouver,Not in core housing need,Total,Filipino,24185,97800,1460,20.4
+2011,Vancouver,Not in core housing need,Total,Latin American,6470,86000,1412,22.4
+2011,Vancouver,Not in core housing need,Total,Southeast Asian,8790,93100,1414,21.3
+2011,Vancouver,Not in core housing need,Total,Arab,2155,98000,1374,20.9
+2011,Vancouver,Not in core housing need,Total,West Asian,7325,103400,1804,26.4
+2011,Vancouver,Not in core housing need,Total,Korean,7570,89700,1438,23.6
+2011,Vancouver,Not in core housing need,Total,Japanese,7705,95900,1111,18.4
+2011,Vancouver,Not in core housing need,Total,Visible minority not included elsewhere,970,98400,1388,20.5
+2011,Vancouver,Not in core housing need,Total,Multiple visible minorities,4985,98800,1420,20.6
+2011,Vancouver,Not in core housing need,Total,Not a visible minority,451175,106400,1302,18.8
+2011,Vancouver,Not in core housing need,Owner,All households,485975,114500,1406,18.5
+2011,Vancouver,Not in core housing need,Owner,Visible minority total,163240,107000,1482,20.3
+2011,Vancouver,Not in core housing need,Owner,Chinese,77655,100900,1270,18.8
+2011,Vancouver,Not in core housing need,Owner,South Asian,38035,120300,1720,21.3
+2011,Vancouver,Not in core housing need,Owner,Black,2890,100700,1664,22.4
+2011,Vancouver,Not in core housing need,Owner,Filipino,15020,109300,1728,21.8
+2011,Vancouver,Not in core housing need,Owner,Latin American,3160,100600,1736,23.4
+2011,Vancouver,Not in core housing need,Owner,Southeast Asian,5910,100100,1586,22.3
+2011,Vancouver,Not in core housing need,Owner,Arab,1085,121400,1636,20.2
+2011,Vancouver,Not in core housing need,Owner,West Asian,4560,114700,2158,27.7
+2011,Vancouver,Not in core housing need,Owner,Korean,5255,96000,1554,23.8
+2011,Vancouver,Not in core housing need,Owner,Japanese,5505,107400,1106,16.2
+2011,Vancouver,Not in core housing need,Owner,Visible minority not included elsewhere,590,112000,1600,20.1
+2011,Vancouver,Not in core housing need,Owner,Multiple visible minorities,3580,109600,1548,20.2
+2011,Vancouver,Not in core housing need,Owner,Not a visible minority,322730,118300,1366,17.6
+2011,Vancouver,Not in core housing need,Renter,All households,184705,76600,1108,21.3
+2011,Vancouver,Not in core housing need,Renter,Visible minority total,56265,77300,1031,19.8
+2011,Vancouver,Not in core housing need,Renter,Chinese,15775,74000,1038,20.9
+2011,Vancouver,Not in core housing need,Renter,South Asian,12515,83900,911,16.3
+2011,Vancouver,Not in core housing need,Renter,Black,2475,72600,1037,21.8
+2011,Vancouver,Not in core housing need,Renter,Filipino,9165,78900,1014,18
+2011,Vancouver,Not in core housing need,Renter,Latin American,3310,72100,1099,21.5
+2011,Vancouver,Not in core housing need,Renter,Southeast Asian,2885,78800,1058,19.2
+2011,Vancouver,Not in core housing need,Renter,Arab,1070,74400,1106,21.6
+2011,Vancouver,Not in core housing need,Renter,West Asian,2765,84600,1211,24.2
+2011,Vancouver,Not in core housing need,Renter,Korean,2310,75500,1167,22.9
+2011,Vancouver,Not in core housing need,Renter,Japanese,2205,67100,1123,24.2
+2011,Vancouver,Not in core housing need,Renter,Visible minority not included elsewhere,380,76800,1060,21.2
+2011,Vancouver,Not in core housing need,Renter,Multiple visible minorities,1410,71400,1083,21.9
+2011,Vancouver,Not in core housing need,Renter,Not a visible minority,128440,76300,1141,21.9
+2016,Vancouver,Total,Total,All households,889415,102800,1440,24.5
+2016,Vancouver,Total,Total,Visible minority total,342640,93300,1522,26.9
+2016,Vancouver,Total,Total,Chinese,145565,91200,1420,26.9
+2016,Vancouver,Total,Total,South Asian,75145,109000,1750,25.2
+2016,Vancouver,Total,Total,Black,9605,75300,1372,28.9
+2016,Vancouver,Total,Total,Filipino,34090,97800,1544,22.9
+2016,Vancouver,Total,Total,Latin American,11550,81300,1454,29.1
+2016,Vancouver,Total,Total,Southeast Asian,12735,82500,1454,28.2
+2016,Vancouver,Total,Total,Arab,4250,77700,1454,32.3
+2016,Vancouver,Total,Total,West Asian,14510,80700,1816,36.6
+2016,Vancouver,Total,Total,Korean,15175,72600,1472,33.4
+2016,Vancouver,Total,Total,Japanese,9940,92500,1233,22.7
+2016,Vancouver,Total,Total,Visible minority not included elsewhere,2080,86400,1378,26.8
+2016,Vancouver,Total,Total,Multiple visible minorities,7990,95500,1504,25.6
+2016,Vancouver,Total,Total,Not a visible minority,546780,108700,1388,22.9
+2016,Vancouver,Total,Owner,All households,576250,121400,1564,21.6
+2016,Vancouver,Total,Owner,Visible minority total,236920,106600,1690,25.8
+2016,Vancouver,Total,Owner,Chinese,119435,98400,1494,26.1
+2016,Vancouver,Total,Owner,South Asian,54110,124100,2018,25.2
+2016,Vancouver,Total,Owner,Black,3335,109000,1818,24.9
+2016,Vancouver,Total,Owner,Filipino,18170,119300,1902,22.4
+2016,Vancouver,Total,Owner,Latin American,4075,112700,1836,25.6
+2016,Vancouver,Total,Owner,Southeast Asian,7455,99500,1736,27.5
+2016,Vancouver,Total,Owner,Arab,1410,108700,1778,27.9
+2016,Vancouver,Total,Owner,West Asian,7455,104600,2306,35.2
+2016,Vancouver,Total,Owner,Korean,8925,83800,1594,31.2
+2016,Vancouver,Total,Owner,Japanese,6480,106200,1213,18.1
+2016,Vancouver,Total,Owner,Visible minority not included elsewhere,1000,117000,1652,22.4
+2016,Vancouver,Total,Owner,Multiple visible minorities,5065,110300,1668,23.7
+2016,Vancouver,Total,Owner,Not a visible minority,339335,131800,1476,18.7
+2016,Vancouver,Total,Renter,All households,313165,68500,1210,29.7
+2016,Vancouver,Total,Renter,Visible minority total,105720,63600,1143,29.4
+2016,Vancouver,Total,Renter,Chinese,26130,58200,1081,30.9
+2016,Vancouver,Total,Renter,South Asian,21035,69900,1064,25.1
+2016,Vancouver,Total,Renter,Black,6270,57350,1135,31.1
+2016,Vancouver,Total,Renter,Filipino,15920,73200,1137,23.5
+2016,Vancouver,Total,Renter,Latin American,7475,64200,1245,31
+2016,Vancouver,Total,Renter,Southeast Asian,5280,58550,1054,29.1
+2016,Vancouver,Total,Renter,Arab,2840,62250,1294,34.5
+2016,Vancouver,Total,Renter,West Asian,7055,55500,1298,38
+2016,Vancouver,Total,Renter,Korean,6255,56650,1296,36.4
+2016,Vancouver,Total,Renter,Japanese,3455,66800,1269,31.2
+2016,Vancouver,Total,Renter,Visible minority not included elsewhere,1080,58100,1126,30.8
+2016,Vancouver,Total,Renter,Multiple visible minorities,2925,69700,1223,29
+2016,Vancouver,Total,Renter,Not a visible minority,207445,71000,1245,29.8
+2016,Vancouver,Household in core housing need7,Total,All households,156810,29760,1168,49.9
+2016,Vancouver,In core housing need,Total,Visible minority total,73260,32960,1294,50
+2016,Vancouver,In core housing need,Total,Chinese,31715,31360,1298,52
+2016,Vancouver,In core housing need,Total,South Asian,12035,37480,1406,47.4
+2016,Vancouver,In core housing need,Total,Black,2680,30600,1092,46.7
+2016,Vancouver,In core housing need,Total,Filipino,4935,35800,1161,42.5
+2016,Vancouver,In core housing need,Total,Latin American,3075,31600,1193,48.7
+2016,Vancouver,In core housing need,Total,Southeast Asian,3350,33880,1263,48.1
+2016,Vancouver,In core housing need,Total,Arab,1560,33400,1235,48.7
+2016,Vancouver,In core housing need,Total,West Asian,5090,31480,1362,54.6
+2016,Vancouver,In core housing need,Total,Korean,5250,33360,1362,52
+2016,Vancouver,In core housing need,Total,Japanese,1580,29160,1085,48.4
+2016,Vancouver,In core housing need,Total,Visible minority not included elsewhere,480,31100,1040,45.1
+2016,Vancouver,In core housing need,Total,Multiple visible minorities,1515,33760,1298,48.8
+2016,Vancouver,In core housing need,Total,Not a visible minority,83550,27000,1057,49.8
+2016,Vancouver,Household in core housing need7,Owner,All households,60985,32800,1370,51.8
+2016,Vancouver,In core housing need,Owner,Visible minority total,37515,35040,1498,53.2
+2016,Vancouver,In core housing need,Owner,Chinese,22320,32520,1390,53.3
+2016,Vancouver,In core housing need,Owner,South Asian,6165,42720,1830,53
+2016,Vancouver,In core housing need,Owner,Black,355,36800,1595,53.1
+2016,Vancouver,In core housing need,Owner,Filipino,1120,39500,1528,49.4
+2016,Vancouver,In core housing need,Owner,Latin American,555,38600,1640,53.2
+2016,Vancouver,In core housing need,Owner,Southeast Asian,1355,38200,1636,54.3
+2016,Vancouver,In core housing need,Owner,Arab,270,36400,1600,56.4
+2016,Vancouver,In core housing need,Owner,West Asian,1680,35600,1722,58.9
+2016,Vancouver,In core housing need,Owner,Korean,2375,33800,1448,53.9
+2016,Vancouver,In core housing need,Owner,Japanese,595,28900,1008,44
+2016,Vancouver,In core housing need,Owner,Visible minority not included elsewhere,70,33000,1160,47
+2016,Vancouver,In core housing need,Owner,Multiple visible minorities,645,38200,1584,51.5
+2016,Vancouver,In core housing need,Owner,Not a visible minority,23470,29280,1164,49.4
+2016,Vancouver,Household in core housing need7,Renter,All households,95825,27840,1040,48.7
+2016,Vancouver,In core housing need,Renter,Visible minority total,35740,30760,1082,46.6
+2016,Vancouver,In core housing need,Renter,Chinese,9390,28520,1084,48.8
+2016,Vancouver,In core housing need,Renter,South Asian,5870,31960,958,41.5
+2016,Vancouver,In core housing need,Renter,Black,2325,29640,1015,45.7
+2016,Vancouver,In core housing need,Renter,Filipino,3810,34760,1053,40.5
+2016,Vancouver,In core housing need,Renter,Latin American,2515,30080,1094,47.7
+2016,Vancouver,In core housing need,Renter,Southeast Asian,1995,30920,1009,43.9
+2016,Vancouver,In core housing need,Renter,Arab,1295,32760,1158,47
+2016,Vancouver,In core housing need,Renter,West Asian,3405,29440,1186,52.4
+2016,Vancouver,In core housing need,Renter,Korean,2870,33000,1290,50.4
+2016,Vancouver,In core housing need,Renter,Japanese,985,29300,1132,51.1
+2016,Vancouver,In core housing need,Renter,Visible minority not included elsewhere,410,30800,1016,44.8
+2016,Vancouver,In core housing need,Renter,Multiple visible minorities,870,30450,1088,46.8
+2016,Vancouver,In core housing need,Renter,Not a visible minority,60080,26080,1015,49.9
+2016,Vancouver,Not in core housing need,Total,All households,732605,118400,1498,19
+2016,Vancouver,Not in core housing need,Total,Visible minority total,269375,109700,1584,20.6
+2016,Vancouver,Not in core housing need,Total,Chinese,113850,107900,1452,20
+2016,Vancouver,Not in core housing need,Total,South Asian,63110,122600,1816,20.9
+2016,Vancouver,Not in core housing need,Total,Black,6930,92600,1480,22.1
+2016,Vancouver,Not in core housing need,Total,Filipino,29155,108300,1610,19.6
+2016,Vancouver,Not in core housing need,Total,Latin American,8475,99300,1548,22
+2016,Vancouver,Not in core housing need,Total,Southeast Asian,9385,99900,1522,21
+2016,Vancouver,Not in core housing need,Total,Arab,2690,103400,1582,22.8
+2016,Vancouver,Not in core housing need,Total,West Asian,9425,107300,2060,26.9
+2016,Vancouver,Not in core housing need,Total,Korean,9925,93400,1530,23.5
+2016,Vancouver,Not in core housing need,Total,Japanese,8365,104500,1261,17.8
+2016,Vancouver,Not in core housing need,Total,Visible minority not included elsewhere,1600,102900,1480,21.3
+2016,Vancouver,Not in core housing need,Total,Multiple visible minorities,6470,109900,1552,20.2
+2016,Vancouver,Not in core housing need,Total,Not a visible minority,463230,123400,1448,18.1
+2016,Vancouver,Not in core housing need,Owner,All households,515265,131800,1588,18.1
+2016,Vancouver,Not in core housing need,Owner,Visible minority total,199400,120000,1726,20.7
+2016,Vancouver,Not in core housing need,Owner,Chinese,97110,113500,1518,19.8
+2016,Vancouver,Not in core housing need,Owner,South Asian,47945,134600,2042,21.6
+2016,Vancouver,Not in core housing need,Owner,Black,2985,117500,1846,21.6
+2016,Vancouver,Not in core housing need,Owner,Filipino,17050,124600,1926,20.6
+2016,Vancouver,Not in core housing need,Owner,Latin American,3520,124400,1868,21.2
+2016,Vancouver,Not in core housing need,Owner,Southeast Asian,6095,113100,1758,21.5
+2016,Vancouver,Not in core housing need,Owner,Arab,1145,125800,1820,21.1
+2016,Vancouver,Not in core housing need,Owner,West Asian,5775,124700,2476,28.3
+2016,Vancouver,Not in core housing need,Owner,Korean,6545,102000,1648,22.9
+2016,Vancouver,Not in core housing need,Owner,Japanese,5890,114100,1234,15.5
+2016,Vancouver,Not in core housing need,Owner,Visible minority not included elsewhere,930,123200,1688,20.6
+2016,Vancouver,Not in core housing need,Owner,Multiple visible minorities,4415,120900,1680,19.7
+2016,Vancouver,Not in core housing need,Owner,Not a visible minority,315860,139400,1500,16.4
+2016,Vancouver,Not in core housing need,Renter,All households,217340,86400,1286,21.3
+2016,Vancouver,Not in core housing need,Renter,Visible minority total,69980,80400,1174,20.6
+2016,Vancouver,Not in core housing need,Renter,Chinese,16740,74900,1079,20.8
+2016,Vancouver,Not in core housing need,Renter,South Asian,15165,84600,1105,18.7
+2016,Vancouver,Not in core housing need,Renter,Black,3945,73700,1205,22.4
+2016,Vancouver,Not in core housing need,Renter,Filipino,12105,85300,1164,18.1
+2016,Vancouver,Not in core housing need,Renter,Latin American,4960,81500,1322,22.5
+2016,Vancouver,Not in core housing need,Renter,Southeast Asian,3285,75400,1081,20.1
+2016,Vancouver,Not in core housing need,Renter,Arab,1550,86800,1408,24
+2016,Vancouver,Not in core housing need,Renter,West Asian,3645,79900,1402,24.6
+2016,Vancouver,Not in core housing need,Renter,Korean,3380,76800,1302,24.6
+2016,Vancouver,Not in core housing need,Renter,Japanese,2480,81600,1324,23.3
+2016,Vancouver,Not in core housing need,Renter,Visible minority not included elsewhere,675,74600,1192,22.3
+2016,Vancouver,Not in core housing need,Renter,Multiple visible minorities,2055,86400,1280,21.4
+2016,Vancouver,Not in core housing need,Renter,Not a visible minority,147365,89300,1338,21.6
+2021,Vancouver,Total,Total,All households,980820,123100,1784,24
+2021,Vancouver,Total,Total,Visible minority total,445530,116600,1904,25.9
+2021,Vancouver,Total,Total,South Asian,101350,138800,2198,24.4
+2021,Vancouver,Total,Total,Chinese,175355,111700,1776,26.3
+2021,Vancouver,Total,Total,Black,13975,96500,1694,26.7
+2021,Vancouver,Total,Total,Filipino,41565,123100,1840,21.3
+2021,Vancouver,Total,Total,Arab,6655,109600,1798,28.1
+2021,Vancouver,Total,Total,Latin American,18315,101900,1830,27.7
+2021,Vancouver,Total,Total,Southeast Asian,16910,106600,1798,26.1
+2021,Vancouver,Total,Total,West Asian,22840,104800,2298,33.5
+2021,Vancouver,Total,Total,Korean,20650,95900,1842,30.3
+2021,Vancouver,Total,Total,Japanese,10660,105800,1490,22.8
+2021,Vancouver,Total,Total,Visible minority not included elsewhere,4975,100900,1790,27
+2021,Vancouver,Total,Total,Multiple visible minorities,12275,116100,1818,24.4
+2021,Vancouver,Total,Total,Not a visible minority,535290,128600,1684,22.4
+2021,Vancouver,Total,Owner,All households,616145,143400,1904,21.4
+2021,Vancouver,Total,Owner,Visible minority total,292435,132200,2092,24.8
+2021,Vancouver,Total,Owner,South Asian,66285,161200,2568,24.3
+2021,Vancouver,Total,Owner,Chinese,143245,119200,1840,25.4
+2021,Vancouver,Total,Owner,Black,4365,131200,2096,23.3
+2021,Vancouver,Total,Owner,Filipino,21710,144400,2180,21.1
+2021,Vancouver,Total,Owner,Arab,2205,169000,2238,24.6
+2021,Vancouver,Total,Owner,Latin American,5480,135000,2178,23.7
+2021,Vancouver,Total,Owner,Southeast Asian,9810,125900,2060,24.9
+2021,Vancouver,Total,Owner,West Asian,11105,133200,2880,32.5
+2021,Vancouver,Total,Owner,Korean,12060,109300,1918,27.3
+2021,Vancouver,Total,Owner,Japanese,6305,119200,1408,18
+2021,Vancouver,Total,Owner,Visible minority not included elsewhere,2605,126800,2144,24.5
+2021,Vancouver,Total,Owner,Multiple visible minorities,7265,134800,1986,22.3
+2021,Vancouver,Total,Owner,Not a visible minority,323705,153600,1734,18.3
+2021,Vancouver,Total,Renter,All households,364675,88800,1580,28.3
+2021,Vancouver,Total,Renter,Visible minority total,153090,86800,1544,28
+2021,Vancouver,Total,Renter,South Asian,35070,96800,1496,24.5
+2021,Vancouver,Total,Renter,Chinese,32115,78300,1490,30.7
+2021,Vancouver,Total,Renter,Black,9605,80700,1510,28.3
+2021,Vancouver,Total,Renter,Filipino,19860,99800,1470,21.5
+2021,Vancouver,Total,Renter,Arab,4445,80200,1580,29.9
+2021,Vancouver,Total,Renter,Latin American,12835,87700,1682,29.4
+2021,Vancouver,Total,Renter,Southeast Asian,7105,80000,1436,27.8
+2021,Vancouver,Total,Renter,West Asian,11740,78000,1748,34.5
+2021,Vancouver,Total,Renter,Korean,8590,77100,1734,34.6
+2021,Vancouver,Total,Renter,Japanese,4355,86600,1608,29.7
+2021,Vancouver,Total,Renter,Visible minority not included elsewhere,2375,72600,1402,29.6
+2021,Vancouver,Total,Renter,Multiple visible minorities,5010,89000,1572,27.6
+2021,Vancouver,Total,Renter,Not a visible minority,211580,90200,1608,28.5
+2021,Vancouver,Household in core housing need7,Total,All households,166100,40120,1522,48
+2021,Vancouver,In core housing need,Total,Visible minority total,84740,42920,1656,48.8
+2021,Vancouver,In core housing need,Total,South Asian,13020,47080,1738,47.1
+2021,Vancouver,In core housing need,Total,Chinese,35830,40440,1672,51.2
+2021,Vancouver,In core housing need,Total,Black,3355,43640,1470,43.9
+2021,Vancouver,In core housing need,Total,Filipino,4780,45960,1438,40.8
+2021,Vancouver,In core housing need,Total,Arab,2190,47720,1570,43
+2021,Vancouver,In core housing need,Total,Latin American,4275,42760,1572,47.1
+2021,Vancouver,In core housing need,Total,Southeast Asian,3565,44760,1672,47.5
+2021,Vancouver,In core housing need,Total,West Asian,6550,43360,1774,52
+2021,Vancouver,In core housing need,Total,Korean,5915,44520,1754,50
+2021,Vancouver,In core housing need,Total,Japanese,2015,40200,1410,45.2
+2021,Vancouver,In core housing need,Total,Visible minority not included elsewhere,1185,40900,1460,45.8
+2021,Vancouver,In core housing need,Total,Multiple visible minorities,2070,42040,1594,47.8
+2021,Vancouver,In core housing need,Total,Not a visible minority,81355,37160,1384,47.2
+2021,Vancouver,Household in core housing need7,Owner,All households,66940,41360,1652,49.3
+2021,Vancouver,In core housing need,Owner,Visible minority total,41665,43640,1810,51.3
+2021,Vancouver,In core housing need,Owner,South Asian,5570,50960,2190,53.1
+2021,Vancouver,In core housing need,Owner,Chinese,25560,41240,1722,51.5
+2021,Vancouver,In core housing need,Owner,Black,500,47400,1740,46.5
+2021,Vancouver,In core housing need,Owner,Filipino,1330,47320,1736,45.7
+2021,Vancouver,In core housing need,Owner,Arab,355,52000,1910,46.6
+2021,Vancouver,In core housing need,Owner,Latin American,640,44400,1690,47.7
+2021,Vancouver,In core housing need,Owner,Southeast Asian,1540,48280,1984,51.5
+2021,Vancouver,In core housing need,Owner,West Asian,1875,45400,2090,56
+2021,Vancouver,In core housing need,Owner,Korean,2530,44880,1768,49.5
+2021,Vancouver,In core housing need,Owner,Japanese,615,38000,1285,43.8
+2021,Vancouver,In core housing need,Owner,Visible minority not included elsewhere,330,42200,1670,49.2
+2021,Vancouver,In core housing need,Owner,Multiple visible minorities,825,44100,1780,49.6
+2021,Vancouver,In core housing need,Owner,Not a visible minority,25275,37640,1390,46.1
+2021,Vancouver,Household in core housing need7,Renter,All households,99160,39240,1436,47.2
+2021,Vancouver,In core housing need,Renter,Visible minority total,43075,42280,1506,46.4
+2021,Vancouver,In core housing need,Renter,South Asian,7445,44160,1400,42.6
+2021,Vancouver,In core housing need,Renter,Chinese,10265,38480,1546,50.6
+2021,Vancouver,In core housing need,Renter,Black,2850,43000,1422,43.5
+2021,Vancouver,In core housing need,Renter,Filipino,3445,45440,1322,38.9
+2021,Vancouver,In core housing need,Renter,Arab,1835,46880,1504,42.3
+2021,Vancouver,In core housing need,Renter,Latin American,3640,42480,1552,47
+2021,Vancouver,In core housing need,Renter,Southeast Asian,2030,42120,1434,44.5
+2021,Vancouver,In core housing need,Renter,West Asian,4670,42520,1646,50.3
+2021,Vancouver,In core housing need,Renter,Korean,3385,44200,1744,50.4
+2021,Vancouver,In core housing need,Renter,Japanese,1400,41200,1464,45.9
+2021,Vancouver,In core housing need,Renter,Visible minority not included elsewhere,860,40400,1380,44.5
+2021,Vancouver,In core housing need,Renter,Multiple visible minorities,1250,40600,1472,46.6
+2021,Vancouver,In core housing need,Renter,Not a visible minority,56080,36960,1382,47.7
+2021,Vancouver,Not in core housing need,Total,All households,814720,140000,1838,19.1
+2021,Vancouver,Not in core housing need,Total,Visible minority total,360785,134000,1962,20.6
+2021,Vancouver,Not in core housing need,Total,South Asian,88335,152400,2266,21
+2021,Vancouver,Not in core housing need,Total,Chinese,139530,130000,1804,19.9
+2021,Vancouver,Not in core housing need,Total,Black,10620,113200,1764,21.3
+2021,Vancouver,Not in core housing need,Total,Filipino,36785,133200,1892,18.8
+2021,Vancouver,Not in core housing need,Total,Arab,4465,140000,1910,20.9
+2021,Vancouver,Not in core housing need,Total,Latin American,14035,119900,1908,21.8
+2021,Vancouver,Not in core housing need,Total,Southeast Asian,13345,123100,1832,20.4
+2021,Vancouver,Not in core housing need,Total,West Asian,16290,129600,2510,26.1
+2021,Vancouver,Not in core housing need,Total,Korean,14740,116500,1878,22.4
+2021,Vancouver,Not in core housing need,Total,Japanese,8650,121100,1508,17.6
+2021,Vancouver,Not in core housing need,Total,Visible minority not included elsewhere,3790,119700,1892,21.1
+2021,Vancouver,Not in core housing need,Total,Multiple visible minorities,10205,131200,1862,19.7
+2021,Vancouver,Not in core housing need,Total,Not a visible minority,453935,144800,1738,17.9
+2021,Vancouver,Not in core housing need,Owner,All households,549210,155800,1934,18
+2021,Vancouver,Not in core housing need,Owner,Visible minority total,250770,147000,2138,20.4
+2021,Vancouver,Not in core housing need,Owner,South Asian,60715,171200,2604,21.7
+2021,Vancouver,Not in core housing need,Owner,Chinese,117685,136200,1866,19.7
+2021,Vancouver,Not in core housing need,Owner,Black,3865,142200,2142,20.3
+2021,Vancouver,Not in core housing need,Owner,Filipino,20380,150800,2208,19.5
+2021,Vancouver,Not in core housing need,Owner,Arab,1855,191200,2300,20.4
+2021,Vancouver,Not in core housing need,Owner,Latin American,4845,146800,2242,20.5
+2021,Vancouver,Not in core housing need,Owner,Southeast Asian,8270,140200,2074,19.9
+2021,Vancouver,Not in core housing need,Owner,West Asian,9225,151000,3044,27.7
+2021,Vancouver,Not in core housing need,Owner,Korean,9530,126400,1958,21.4
+2021,Vancouver,Not in core housing need,Owner,Japanese,5695,127900,1422,15.3
+2021,Vancouver,Not in core housing need,Owner,Visible minority not included elsewhere,2270,139000,2212,21
+2021,Vancouver,Not in core housing need,Owner,Multiple visible minorities,6445,146400,2012,18.8
+2021,Vancouver,Not in core housing need,Owner,Not a visible minority,298435,163400,1764,16
+2021,Vancouver,Not in core housing need,Renter,All households,265515,107300,1636,21.3
+2021,Vancouver,Not in core housing need,Renter,Visible minority total,110015,104300,1558,20.9
+2021,Vancouver,Not in core housing need,Renter,South Asian,27620,110900,1522,19.6
+2021,Vancouver,Not in core housing need,Renter,Chinese,21845,97100,1462,21.4
+2021,Vancouver,Not in core housing need,Renter,Black,6755,96600,1548,21.8
+2021,Vancouver,Not in core housing need,Renter,Filipino,16410,111300,1500,17.9
+2021,Vancouver,Not in core housing need,Renter,Arab,2610,103600,1634,21.2
+2021,Vancouver,Not in core housing need,Renter,Latin American,9190,105700,1734,22.5
+2021,Vancouver,Not in core housing need,Renter,Southeast Asian,5075,95100,1436,21.2
+2021,Vancouver,Not in core housing need,Renter,West Asian,7065,101500,1814,24.1
+2021,Vancouver,Not in core housing need,Renter,Korean,5205,98500,1728,24.4
+2021,Vancouver,Not in core housing need,Renter,Japanese,2955,108100,1678,22
+2021,Vancouver,Not in core housing need,Renter,Visible minority not included elsewhere,1520,90800,1414,21.2
+2021,Vancouver,Not in core housing need,Renter,Multiple visible minorities,3760,105000,1606,21.2
+2021,Vancouver,Not in core housing need,Renter,Not a visible minority,155500,109400,1690,21.6
